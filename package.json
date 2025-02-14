@@ -50,6 +50,7 @@
     "marked": "^0.3.5",
     "method-override": "^2.3.5",
     "moment": "^2.10.6",
+    "moment-timezone": "^0.5.47",
     "mongoose": "~4.4.4",
     "morgan": "^1.6.1",
     "mpromise": "^0.5.5",
